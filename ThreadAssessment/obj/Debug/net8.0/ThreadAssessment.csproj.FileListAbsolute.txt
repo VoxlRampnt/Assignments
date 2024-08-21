@@ -1,0 +1,14 @@
+C:\Users\grego\source\repos\ThreadAssessment\bin\Debug\net8.0\ThreadAssessment.exe
+C:\Users\grego\source\repos\ThreadAssessment\bin\Debug\net8.0\ThreadAssessment.deps.json
+C:\Users\grego\source\repos\ThreadAssessment\bin\Debug\net8.0\ThreadAssessment.runtimeconfig.json
+C:\Users\grego\source\repos\ThreadAssessment\bin\Debug\net8.0\ThreadAssessment.dll
+C:\Users\grego\source\repos\ThreadAssessment\bin\Debug\net8.0\ThreadAssessment.pdb
+C:\Users\grego\source\repos\ThreadAssessment\obj\Debug\net8.0\ThreadAssessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grego\source\repos\ThreadAssessment\obj\Debug\net8.0\ThreadAssessment.AssemblyInfoInputs.cache
+C:\Users\grego\source\repos\ThreadAssessment\obj\Debug\net8.0\ThreadAssessment.AssemblyInfo.cs
+C:\Users\grego\source\repos\ThreadAssessment\obj\Debug\net8.0\ThreadAssessment.csproj.CoreCompileInputs.cache
+C:\Users\grego\source\repos\ThreadAssessment\obj\Debug\net8.0\ThreadAssessment.dll
+C:\Users\grego\source\repos\ThreadAssessment\obj\Debug\net8.0\refint\ThreadAssessment.dll
+C:\Users\grego\source\repos\ThreadAssessment\obj\Debug\net8.0\ThreadAssessment.pdb
+C:\Users\grego\source\repos\ThreadAssessment\obj\Debug\net8.0\ThreadAssessment.genruntimeconfig.cache
+C:\Users\grego\source\repos\ThreadAssessment\obj\Debug\net8.0\ref\ThreadAssessment.dll
